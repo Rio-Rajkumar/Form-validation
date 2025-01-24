@@ -50,7 +50,7 @@
         }
 
         if(success){
-            alert("success full submit");
+            alert("Form submitted successfully!");
             document.getElementById("formvalid").reset();
         }
 
